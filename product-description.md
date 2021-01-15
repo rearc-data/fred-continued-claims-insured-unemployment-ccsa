@@ -1,11 +1,6 @@
-<a href="https://www.rearc.io/data/">
-    <img src="./rearc_logo_rgb.png" alt="Rearc Logo" title="Rearc Logo" height="52" />
-</a>
-
-
 ## Continued Claims (Insured Unemployment) (CCSA) | FRED
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://console.aws.amazon.com/dataexchange/home#/products/prodview-nejmk4wgk3hvk](https://console.aws.amazon.com/dataexchange/home#/products/prodview-nejmk4wgk3hvk).
+The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/fred-continued-claims-insured-unemployment-ccsa](https://github.com/rearc-data/fred-continued-claims-insured-unemployment-ccsa).
 
 ### Main Overview
 The dataset file included with this product is provided in CSV format. README files are also included to offer context on data fields used throughout the dataset files. The specific files included with each revisions may vary.
