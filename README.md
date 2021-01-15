@@ -5,7 +5,7 @@
 
 ## Continued Claims (Insured Unemployment) (CCSA) | FRED
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://console.aws.amazon.com/dataexchange/home#/products/prodview-nejmk4wgk3hvk](https://console.aws.amazon.com/dataexchange/home#/products/prodview-nejmk4wgk3hvk).
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-nejmk4wgk3hvk](https://aws.amazon.com/marketplace/pp/prodview-nejmk4wgk3hvk).
 
 ### Main Overview
 The dataset file included with this product is provided in CSV format. README files are also included to offer context on data fields used throughout the dataset files. The specific files included with each revisions may vary.
