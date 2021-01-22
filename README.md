@@ -13,7 +13,13 @@ The dataset file included with this product is provided in CSV format. README fi
 This dataset contains a historical time-series data of U.S. Employment and Training Administration, Continued Claims (Insured Unemployment) [CCSA] starting from `1967-01-07`. The data is seasonally adjusted.
 
 ### Data Source
-This dataset is provided by the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/) Economic Data (FRED). 
+This dataset is provided by the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/) Economic Data (FRED).
+
+The included dataset contains the following columns:
+
+`date, CCSA`
+
+The `CCSA` column represents the number of people who have insured unemployment at the time of the corresponding `date`.   
 
 ### More Information
 - Source: 
